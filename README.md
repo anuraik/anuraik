@@ -35,13 +35,6 @@ Tools: SQL, Excel / Google Sheets
 
 View Project → https://github.com/anuraik/cyclistic-bike-share-analysis
 
-🥇 Olympic Medals Analysis
-
-Exploratory analysis of Olympic medal data, including medal distributions, rankings and statistical relationships.
-
-Tools: 
-
-View Project →
 
 🛒 Sales Analysis
 
@@ -51,13 +44,6 @@ Tools: SQL, Excel
 
 View Project → https://github.com/anuraik/Cafe_sales_vs_budget_analysis
 
-🌦️ Weather Trends Analysis
-
-Analysis of historical weather data using SQL to identify trends and investigate missing or incorrect values.
-
-Tools: SQL, BigQuery
-
-View Project →
 
 📫 Contact
 LinkedIn: https://www.linkedin.com/in/anu-raik-47077b347/
